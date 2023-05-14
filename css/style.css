@@ -1,0 +1,18 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+}
+
+p{
+	font-size: 36px;
+}
+
+button{
+	background-color: black;
+	text-decoration: none;
+  color: #fffdfd;
+}
+
+button:hover {
+  color:  #d13901;
+}
